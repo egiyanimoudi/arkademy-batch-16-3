@@ -1,0 +1,51 @@
+{
+    "nama": "Egiyani Moudi",
+    "age": 23,
+    "address": "Jl. Diponegoro, Merangin, Jambi",
+    "hobbies": ["gaming", "reading"],
+    "is_married": false,
+    "list_school" :
+    [ 
+        {
+        "name": "Universitas Jambi",
+        "year_in" : 2014,
+        "year_out": 2019,
+        "major" : "Teknik Geofisika"
+        },
+    
+        {
+        "name": "SMA N 6 Merangin",
+        "year_in" : 2011,
+        "year_out": 2014,
+        "major" : "IPA"
+        },
+    
+        {
+        "name" : "SMP N 4 Merangin",
+        "year_in"  : 2008,
+        "year_out" : 2011,
+        "major" : null
+        },
+    
+        {
+        "name" : "SDN 115 Bangko",
+        "year_in" : 2002,
+        "year_out": 2008,
+        "major" : null 
+        },
+    ],
+    "skills" :
+    [
+        {
+        "skill_name" : "english",
+        "level" : "medium"
+        },
+        
+        {
+            "skill_name" : "coding",
+            "level" : "beginner",
+        },
+        
+    ],
+    "interest_in_coding" : true
+}
